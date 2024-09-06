@@ -1,0 +1,11 @@
+INSERT INTO products (id, brand, category, created_at, description, image_file_name, name, price) VALUES
+(1, 'Dell', 'Ultrabook', NOW(), '13.3-inch display, Intel Core i7, 16GB RAM, 512GB SSD', 'dell_xps_13.jpg', 'Dell XPS 13', '1200.00'),
+(2, 'Apple', 'Ultrabook', NOW(), '13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD', 'macbook_air.jpg', 'MacBook Air', '999.00'),
+(3, 'HP', 'Convertible', NOW(), '13.3-inch touch display, Intel Core i7, 16GB RAM, 1TB SSD', 'hp_spectre_x360.jpg', 'HP Spectre x360', '1350.00'),
+(4, 'Lenovo', 'Business', NOW(), '14-inch display, Intel Core i7, 16GB RAM, 512GB SSD', 'thinkpad_x1_carbon.jpg', 'Lenovo ThinkPad X1 Carbon', '1450.00'),
+(5, 'Acer', 'Budget', NOW(), '14-inch display, AMD Ryzen 7, 8GB RAM, 512GB SSD', 'acer_swift_3.jpg', 'Acer Swift 3', '800.00'),
+(6, 'Microsoft', 'Ultrabook', NOW(), '13.5-inch display, Intel Core i5, 8GB RAM, 256GB SSD', 'surface_laptop_4.jpg', 'Microsoft Surface Laptop 4', '1100.00'),
+(7, 'Asus', 'Gaming', NOW(), '14-inch display, AMD Ryzen 9, 16GB RAM, 1TB SSD', 'rog_zephyrus_g14.jpg', 'Asus ROG Zephyrus G14', '1500.00'),
+(8, 'Razer', 'Gaming', NOW(), '15.6-inch display, Intel Core i7, 16GB RAM, 512GB SSD', 'razer_blade_15.jpg', 'Razer Blade 15', '2000.00'),
+(9, 'Samsung', 'Ultrabook', NOW(), '15-inch display, Intel Core i7, 8GB RAM, 512GB SSD', 'samsung_galaxy_book.jpg', 'Samsung Galaxy Book Pro', '1200.00'),
+(10, 'LG', 'Business', NOW(), '16-inch display, Intel Core i7, 16GB RAM, 1TB SSD', 'lg_gram_16.jpg', 'LG Gram 16', '1400.00');
