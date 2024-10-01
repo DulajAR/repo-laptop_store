@@ -21,12 +21,7 @@ public class LapstoreApplication {
 
 	
 	
-
-
-
 	
-
-
 	
 	
 
