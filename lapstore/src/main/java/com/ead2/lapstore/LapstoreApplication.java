@@ -9,7 +9,7 @@ public class LapstoreApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LapstoreApplication.class, args);
 	}
-	
+
 
 	
 	
