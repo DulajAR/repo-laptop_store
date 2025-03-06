@@ -12,13 +12,6 @@ public class LapstoreApplication {
 	
 	
 	
-
-	
-	
-
-
-	
-	
 	
 	
 
