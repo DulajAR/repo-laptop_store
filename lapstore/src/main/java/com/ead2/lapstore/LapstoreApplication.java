@@ -41,26 +41,6 @@ public class LapstoreApplication {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
 }
