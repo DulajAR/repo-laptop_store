@@ -43,23 +43,6 @@ public class LapstoreApplication {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
 }
