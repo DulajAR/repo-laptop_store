@@ -10,35 +10,6 @@ public class LapstoreApplication {
 		SpringApplication.run(LapstoreApplication.class, args);
 	}
 	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
